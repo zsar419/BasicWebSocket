@@ -1,0 +1,17 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "A simple express websocket application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "zeeshan sarwar",
+  "license": "MIT",
+  "dependencies": {
+    "bufferutil": "3.0.3",
+    "express": "4.16.2",
+    "utf-8-validate": "3.0.4",
+    "ws": "3.3.1"
+  }
+}
