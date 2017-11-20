@@ -2,7 +2,7 @@
 ## Web Socket Node App ##
 - A simple web socket node application which supplies data to frontend via bi-directional socket
 - In this app we update the client with server sided time using web socket at 1 second intervals
-Link: https://web-socket-basic.herokuapp.com/
+- Link: https://web-socket-basic.herokuapp.com/
 
 ## Instructions for local deployment ##
 - npm install
